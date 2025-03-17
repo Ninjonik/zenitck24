@@ -1,0 +1,8 @@
+Pre všetky texty je použitý font "Raleway", ktorý sa nachádza v Google knižnici fontov.
+https://fonts.google.com/specimen/Raleway
+
+odkaz na googleApi:
+https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap
+
+Font máte uložený aj v súbore Raleway.zip ak by ste ho chceli načítavať priamo
+

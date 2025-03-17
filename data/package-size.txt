@@ -1,0 +1,6 @@
+do  70 cm	XS	5 EUR
+do  95 cm	S	9 EUR
+do 130 cm	M	12 EUR
+do 150 cm	L	15 EUR
+do 250 cm	XL	18 EUR
+od 250 cm	XXL	30 EUR

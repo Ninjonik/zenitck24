@@ -1,0 +1,15 @@
+Zoznam krajín v tvare
+zona	kod	nazov
+0	SK	Slovenská Republika
+1	CZ	Česká Republika
+1	AT	Rakúsko
+1	HU	Maďarsko
+1	PL	Poľsko
+2	DE	Nemecko
+2	HR	Chorvátsko
+2	BG	Bulharsko
+
+Prirážka
+zona 0		+0
+zona 1		+5
+zona 2		+20
