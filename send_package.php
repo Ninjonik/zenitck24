@@ -329,11 +329,11 @@
                     <input required class="w-full" step="1" type="number" name="width" id="width" min="1" value="<?php echo($width); ?>">
                 </div>
                 <div class="flex flex-col gap-1">
-                    <label for="width">B Výška</label>
+                    <label for="height">B Výška</label>
                     <input required class="w-full" step="1" type="number" name="height" id="height" min="1" value="<?php echo($height); ?>">
                 </div>
                 <div class="flex flex-col gap-1">
-                    <label for="width">C Dĺžka</label>
+                    <label for="length">C Dĺžka</label>
                     <input required class="w-full" step="1" type="number" name="length" id="length" min="1" max="75" value="<?php echo($length); ?>">
                 </div>
             </div>
